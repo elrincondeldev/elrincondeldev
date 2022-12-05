@@ -26,11 +26,10 @@
  
  ### 📚 I'm currently learning...
  
- <a href="https://www.java.com/es/" title="Java">
-  <img src="https://user-images.githubusercontent.com/109598200/196561450-d8f193e2-2cd0-44e9-9794-8064c51486ad.png" width="60">
+ <a href="https://www.typescriptlang.org/" title="TypeScript">
+  <img src="https://user-images.githubusercontent.com/109598200/205645029-ba8ca989-54fe-4851-9648-73655a85b3f4.png" width="60">
 </a>
- <a href="https://reactjs.org/" title="React"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561528-a3cd75e0-c651-4b2e-9b02-79ed1c73638e.png"></a>
- <a href="https://nodejs.org/" title="Node Js"><img width="60" src="https://user-images.githubusercontent.com/109598200/201104525-2f8e6277-8150-420c-b559-c3d18af037b0.png"></a>
+ <a href="https://angular.io/" title="Angular"><img width="60" src="https://user-images.githubusercontent.com/109598200/205644553-1d4a6486-a1a9-4e7e-8375-3bd1df3512e2.png"></a>
  
   ### 🚀 Technologies with i feel comfortable...
   
