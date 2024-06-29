@@ -11,4 +11,4 @@ I’m also a content creator; I love communicating through social media platform
 
 In my free time, I enjoy going to the gym, reading, and watching anime.
 
-![image]([https://github.com/tigerabrodi/tigerabrodi/assets/49603590/c1281d61-721c-4a3b-8ca8-840e3402bf88](https://i.pinimg.com/originals/da/a1/72/daa1724c178e8dbb2ce85867f94ec1c7.jpg))
+![image](https://i.pinimg.com/originals/da/a1/72/daa1724c178e8dbb2ce85867f94ec1c7.jpg)
