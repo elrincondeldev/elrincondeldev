@@ -3,37 +3,12 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/jmontes33/jmontes33/assets/109598200/d38b2e84-ca6d-4e2c-9974-ec88c75b7950" alt="jmontes33" /></p>
+I'm passionate about creating useful applications with accessible, scalable, and user-centered interfaces.
 
+I work in frontend, backend, and cloud, but I specialize in frontend.
 
-- 🌱 I’m passionate about crafting experiences that are engaging, accesible, and user-centric.
+I’m also a content creator; I love communicating through social media platforms like [Instagram](https://www.instagram.com/elrincondeldev/) and my [newsletter](https://elrincondeldev.substack.com/).
 
-- 📫 How to reach me **jrmh.business@gmail.com**
+In my free time, I enjoy going to the gym, reading, and watching anime.
 
-- ⚡ I’m currently working as a FullStack Developer.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/joseramonmontes/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/elrincondeldev/" target="blank"><img align="center"
-      src="https://github.com/jmontes33/jmontes33/assets/109598200/7cfc7b57-e432-474b-8a60-b14e980030a7"
-      alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.tiktok.com/@elrincondeldev" target="blank"><img align="center"
-      src="https://github.com/jmontes33/jmontes33/assets/109598200/96ea3cb2-9b00-4718-a4d1-ce30c0a64c03"
-      alt="TikTok" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCWn_0MmgojB711LFX-jaCDQ" target="blank"><img align="center"
-      src="https://github.com/jmontes33/jmontes33/assets/109598200/d5a20800-6ba7-48f7-86de-d5368598f8ea"
-      alt="youtube" height="40" width="40" /></a>
-</p>
-
-<br>
-
-<h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jmontes33&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+![image]([https://github.com/tigerabrodi/tigerabrodi/assets/49603590/c1281d61-721c-4a3b-8ca8-840e3402bf88](https://i.pinimg.com/originals/da/a1/72/daa1724c178e8dbb2ce85867f94ec1c7.jpg))
