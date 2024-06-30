@@ -7,7 +7,7 @@ I'm passionate about creating useful applications with accessible, scalable, and
 
 I work in frontend, backend, and cloud, but I specialize in frontend.
 
-I’m also a content creator; I love communicating through social media platforms like [Instagram](https://www.instagram.com/elrincondeldev/) and my [newsletter](https://elrincondeldev.substack.com/).
+I’m also a content creator, I love communicating through social media platforms like [Instagram](https://www.instagram.com/elrincondeldev/) and my [newsletter](https://elrincondeldev.substack.com/).
 
 In my free time, I enjoy going to the gym, reading, and watching anime.
 
